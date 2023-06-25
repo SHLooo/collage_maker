@@ -29,4 +29,3 @@ Setup and Parameters
 ## Data
 
 A total of 473 photos are uploaded in the GitHub repo. This should be enough to create a photo collage with any shape and dimension. If not, please comment below.
-- 
