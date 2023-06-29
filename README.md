@@ -3,7 +3,7 @@
 The `create_collage.ipynb` notebook is a demonstration of how to create a customized photo collage of any shape using Python. This tool allows you to provide a silhouette of the desired shape, and it will generate a collage with photos that conform to the shape.
 
 ## Backstory
-https://www.linkedin.com/posts/shuhao-uw_opencv-numpy-uwaterloo-activity-7078657845252034561-2vOW?utm_source=share&utm_medium=member_desktop
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7078468284865511424" height="882" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## Packages
 - cv2
